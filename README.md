@@ -10,9 +10,9 @@ A simple and functional calculator web app to perform basic arithmetic operation
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- **HTML5**: For the structure and layout of the application.
+- **CSS3**: For styling and layout, ensuring a modern and responsive design.
+- **JavaScript (ES6)**: For the logic and interactivity of the calculator.
 
 ## Usage
 
@@ -34,5 +34,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 Happy Calculating!
-
-
