@@ -35,8 +35,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Happy Calculating!
 
-This project is licensed under the MIT License.
-
-
-Happy Calculating!
 
