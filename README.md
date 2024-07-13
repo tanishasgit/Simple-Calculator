@@ -37,7 +37,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     cd simple-calculator
     ```
 
-3. **Open the `index.html` file in your web browser**:
+3. **Open the `main.html` file in your web browser**:
 
     You can simply double-click on the `main.html` file, or open it using your web browser's file menu.
 
